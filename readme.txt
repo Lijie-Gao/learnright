@@ -5,4 +5,5 @@ add new line too;
 add new line three;
 creating a new branch is quick
 creating a new branch is quick444
-creating  a new branch is quick & simple;
+Creating  a new branch is quick and simple;
+
